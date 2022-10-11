@@ -1,12 +1,13 @@
+/* Add a border and some padding around the div */
 .Notifications {
-    padding: 1rem;
-    border: 1px dotted red;
+    border: 3px solid #E23333;
+    padding: 2rem;
 }
 
-li[data-priority="default"] {
+li[data-priority='default'] {
     color: blue;
 }
 
-li[data-priority="urgent"] {
+li[data-priority='urgent'] {
     color: red;
 }

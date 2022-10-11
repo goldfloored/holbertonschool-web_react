@@ -1,14 +1,21 @@
-export function getFullYear() {
-    return new Date().getFullYear();
-}
+// eslint-disable-next-line
+export const getFullYear = () => {
+  const year = new Date().getFullYear();
+  return (year);
+};
 
-export function getFooterCopy(isIndex) {
-    if (typeof isIndex !== "boolean") {
-        isIndex = false;
-    }
-    return (isIndex ? 'Holberton School' : 'Holberton School main dashboard');
-}
+// eslint-disable-next-line
+export const getFooterCopy = (isIndex) => {
+  if (isIndex) {
+    const MySchool = 'Holberton School';
+    return (MySchool);
+  } else {
+    const dash = 'Holberton School main dashboard';
+    return (dash);
+  }
+};
 
-export function getLatestNotification() {
-    return '<strong>Urgent requirement</strong> - complete by EOD';
-}
+export const getLatestNotification = () => {
+  const urgentMessage = '<strong>Urgent requirement</strong> - complete by EOD';
+  return (urgentMessage);
+};
