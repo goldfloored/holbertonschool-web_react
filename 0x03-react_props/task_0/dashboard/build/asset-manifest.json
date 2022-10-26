@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/0x02-react_intro/task_2/dashboard/static/css/main.90b82dcf.chunk.css",
+    "main.js": "/0x02-react_intro/task_2/dashboard/static/js/main.f74b47d9.chunk.js",
+    "main.js.map": "/0x02-react_intro/task_2/dashboard/static/js/main.f74b47d9.chunk.js.map",
+    "runtime-main.js": "/0x02-react_intro/task_2/dashboard/static/js/runtime-main.874c7a63.js",
+    "runtime-main.js.map": "/0x02-react_intro/task_2/dashboard/static/js/runtime-main.874c7a63.js.map",
+    "static/js/2.de5e809c.chunk.js": "/0x02-react_intro/task_2/dashboard/static/js/2.de5e809c.chunk.js",
+    "static/js/2.de5e809c.chunk.js.map": "/0x02-react_intro/task_2/dashboard/static/js/2.de5e809c.chunk.js.map",
+    "static/js/3.4bf463d8.chunk.js": "/0x02-react_intro/task_2/dashboard/static/js/3.4bf463d8.chunk.js",
+    "static/js/3.4bf463d8.chunk.js.map": "/0x02-react_intro/task_2/dashboard/static/js/3.4bf463d8.chunk.js.map",
+    "index.html": "/0x02-react_intro/task_2/dashboard/index.html",
+    "static/css/main.90b82dcf.chunk.css.map": "/0x02-react_intro/task_2/dashboard/static/css/main.90b82dcf.chunk.css.map",
+    "static/js/2.de5e809c.chunk.js.LICENSE.txt": "/0x02-react_intro/task_2/dashboard/static/js/2.de5e809c.chunk.js.LICENSE.txt",
+    "static/media/close-icon.3f143f40.png": "/0x02-react_intro/task_2/dashboard/static/media/close-icon.3f143f40.png",
+    "static/media/define.24bab5d6.jpeg": "/0x02-react_intro/task_2/dashboard/static/media/define.24bab5d6.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.874c7a63.js",
+    "static/js/2.de5e809c.chunk.js",
+    "static/css/main.90b82dcf.chunk.css",
+    "static/js/main.f74b47d9.chunk.js"
+  ]
+}
